@@ -1,0 +1,8 @@
+List of projects:
+1.	Parallel Implementation of Sieve of Eratosthenes (SoE) Algorithm:
+	This project has been done for graduate level course of Parallel Processing in Fall 2011. 
+	Here different implementations of SoE algorithm are done for different memory models- 
+		1) basic serial SoE algorithm using C 
+		2) parallel version of SoE algorithm for distributed memory model using MPI 
+		3) parallel version of SoE algorithm for shared memory model using OpenMP
+	Performance analysis and scalability of each of the implementations has been done by using large number list (100 million)
