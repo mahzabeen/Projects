@@ -5,4 +5,4 @@ List of projects:
 		1) basic serial SoE algorithm using C 
 		2) parallel version of SoE algorithm for distributed memory model using MPI 
 		3) parallel version of SoE algorithm for shared memory model using OpenMP
-	Performance analysis and scalability of each of the implementations has been done by using large number list (100 million)
+	Performance analysis and scalability of each of the implementations has been done by using large number list (100 million).
